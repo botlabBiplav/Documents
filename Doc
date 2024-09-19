@@ -8,3 +8,9 @@ to access the .env file we have to use the nano .env
 than give change in the env file 
 when we are in the development mode 
 justgo to the terminal and type npm run develop so that it will start the development server so that if you want to connet by giving the pubilc ip:1337 than it will start 
+
+want to start the starpi:-  pm2 start npm --name "strapi" -- run develop
+
+if we want to start the strapi in the production than we have to do the pm2 start npm --name "strapi" -- run start 
+
+
