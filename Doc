@@ -1,0 +1,10 @@
+here we are going to deploying the Strapi 
+we are using the Development mode 
+we are stoping the pm2 stop StrapiBackend 
+pm2 list for the list 
+pm2 stop for stop the instance 
+if we are going to change the build website from production to development than we have to change in the env file 
+to access the .env file we have to use the nano .env
+than give change in the env file 
+when we are in the development mode 
+justgo to the terminal and type npm run develop so that it will start the development server so that if you want to connet by giving the pubilc ip:1337 than it will start 
